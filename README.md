@@ -1,7 +1,13 @@
 ImmuneCrypt
 ===========
+Version 0.1 - No License
+By h4fidzi@gmail.com, Mac 2nd, 2014
 
-A file manager apps for iOS device. This app is build on proposed immune-inspired approaches in designing a new function for cryptographic algorithm named as 3D-AES
+Introduction
+------------
+A file manager apps for iOS device. This app is build on proposed immune-inspired approaches in designing a new function for cryptographic algorithm named as 3D-AES.
+
+This app will utilize the FCFileManager library.
 
 Feature
 =======
