@@ -1,0 +1,40 @@
+USING THE 3D-AES TOOL HEPL SYSTEM
+
+Input from text
+
+1.Plaintext  - Typein the message or text that want to encrypt in string
+2.Secret key - Typein the 16 character keys including symbol, character and number
+3.Function - check whether the encyption or decryption.
+  a. Encryption -
+  b. Decryption -
+4.Rotation Axis -
+  a. X-axis -
+  b. Y-axis -
+  c. Z-axis -
+5. Decode/Encode progress - display the progress of the convertion
+6. Ciphertext - the output of the encryption process
+7. Originaltext - 
+
+
+Input from file
+
+1. Input and Key
+   a. Plaintext/Ciphertext
+   b. Key file
+2.Function - check whether the encyption or decryption.
+  a. Encryption -
+  b. Decryption -
+3.Rotation Axis -
+  a. X-axis -
+  b. Y-axis -
+  c. Z-axis -
+4. Decode/Encode progress - display the progress of the convertion
+5. Output
+  a. String format
+  b. hex format
+
+Author by : Suriyani Ariffin
+year: 2010-2011
+Phd Title : 3D-AES
+e-mail: suriyani@tmsk.uitm.edu.my
+UiTM
