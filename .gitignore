@@ -1,0 +1,6 @@
+.DS_Store
+*/buid/*
+*.pbxuser
+xcuserdata
+profile
+*.xccheckout
