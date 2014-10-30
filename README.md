@@ -2,6 +2,11 @@ ImmuneCrypt
 ===========
 Version 0.1 - No License
 
+<a href="https://scan.coverity.com/projects/3363">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/3363/badge.svg"/>
+</a>
+
 By h4fidzi@gmail.com, Mac 2nd, 2014
 
 Copyright(C) 2014 Dr. Suriyani Ariffin. All rights reserved.
